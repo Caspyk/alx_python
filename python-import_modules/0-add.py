@@ -12,4 +12,7 @@ if __name__ == "__main__":
     
     print("{} + {} = {}".format(a, b, a + b))
 
+    echo "Exiting with code 1"
+    exit 1
+
     
