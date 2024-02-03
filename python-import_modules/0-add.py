@@ -8,6 +8,7 @@ if __name__ == "__main__":
     add(1, 2) 
     a = 1
     b = 2
+    a + b = 3
     
     print("{} + {} = {}".format(a, b, a + b))
 
